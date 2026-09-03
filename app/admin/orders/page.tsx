@@ -1,6 +1,17 @@
 import { supabaseAdmin } from "@/lib/supabase-admin"
 import LogoutButton from "./logout-button"
 
+
+export const dynamic = "force-dynamic"
+
+interface OrderItem {
+    name: string
+    price: number
+    qty: number
+    size?: string
+    color?: string
+}
+
 interface OrderItem {
     name: string
     price: number
