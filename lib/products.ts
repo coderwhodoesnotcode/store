@@ -2,7 +2,7 @@ export const products = [
   {
     id: 1,
     name: "Aston Martin Racing Tee",
-    price: 2000,
+    price: 1999,
     description:
       "Inspired by Aston Martin’s Formula 1 legacy, built for speed and precision.",
 
@@ -27,7 +27,7 @@ export const products = [
   {
     id: 2,
     name: "SABAR Tee",
-    price: 2000,
+    price: 1999,
     description:
       "‘Sabar’ means patience — success takes time.",
 
@@ -52,7 +52,7 @@ export const products = [
   {
     id: 3,
     name: "Kalakar Tee",
-    price: 2000,
+    price: 1999,
     description:
       "For creators and dreamers who express identity.",
 
@@ -78,7 +78,7 @@ export const products = [
   {
     id: 4,
     name: "Astober Street Tee",
-    price: 2000,
+    price: 1999,
     description:
       "A street-style design blending attitude and simplicity. Made for students who want to stand out without trying too hard.",
         variants: [
@@ -94,7 +94,7 @@ export const products = [
   {
     id: 5,
     name: "Uchiha Legacy Tee",
-    price: 2000,
+    price: 1999,
     description:
       "Inspired by the legendary Uchiha clan from anime. Represents power, sacrifice, and inner strength. Perfect for true anime fans.",
         variants: [
@@ -110,7 +110,7 @@ export const products = [
   {
     id: 6,
     name: "Who Are You? Tee",
-    price: 2000,
+    price: 1999,
     description:
       "A bold question that defines identity. Wear it as a statement — who you are, or who you’re becoming.",
         variants: [
@@ -126,7 +126,7 @@ export const products = [
   {
     id: 7,
     name: "Ferrari",
-    price: 2000,
+    price: 1999,
     description:
       "Inspired by Ferrari’s racing heritage. A sleek black design that reflects speed, luxury, and dominance.",
         variants: [
@@ -146,7 +146,7 @@ export const products = [
   {
     id: 8,
     name: "PETRONAS Energy Tee",
-    price: 2000,
+    price: 1999,
     description:
       "Inspired by PETRONAS performance and Formula racing excellence. Designed for those who live with energy and ambition.",
         variants: [
